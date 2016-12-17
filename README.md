@@ -1,3 +1,2 @@
 # first-python
-haha/n
-hihi
+haha hihi
